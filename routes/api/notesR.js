@@ -5,7 +5,7 @@ const {
 const {
     createNewNote,
     deleteNote
-} = require('../../lib/noteFunctions');
+} = require('../../lib/noteFunc');
 
 
 router.get('/notes', (req, res) => {
