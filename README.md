@@ -7,7 +7,7 @@
 ## Links to Repo and deployment📌
 
 🔸 GitHub Repository [link](https://github.com/Changeling011)
-🔸 Site Live at [link]()
+🔸 Heroku App[Link](https://obscure-sea-70597.herokuapp.com/)
 
 
 
@@ -41,7 +41,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## Screenshot
-![Screenshot](./)
+![Screenshot](./public/assets/images/screnshot.jpg)
 
 
 
@@ -50,8 +50,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 🔸[Bootstrap](https://getbootstrap.com/)
 🔸[NodeJS](https://nodejs.org/en/)
-🔸[Jest](https://www.npmjs.com/package/jest)
-🔸[Inquirer](https://www.npmjs.com/package/inquirer)
+🔸[Heroku](https://dashboard.heroku.com/login)
+
 
 
 
